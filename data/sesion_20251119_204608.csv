@@ -1,0 +1,721 @@
+Timestamp,Estado_Facial,Sentimiento_Texto,Congruencia,Texto
+20:46:19,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:19,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:19,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:19,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:19,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:19,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:19,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:19,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:19,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:19,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:20,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:20,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:20,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:20,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:20,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:20,MANOS ARRIBA,NEUTRAL,COHERENTE,
+20:46:20,MANOS ARRIBA,NEUTRAL,COHERENTE,de
+20:46:20,NEUTRAL,NEUTRAL,COHERENTE,de
+20:46:20,NEUTRAL,NEUTRAL,COHERENTE,de
+20:46:20,NEUTRAL,NEUTRAL,COHERENTE,de
+20:46:20,NEUTRAL,NEUTRAL,COHERENTE,de
+20:46:20,NEUTRAL,NEUTRAL,COHERENTE,de
+20:46:20,NEUTRAL,NEUTRAL,COHERENTE,de
+20:46:20,NEUTRAL,NEUTRAL,COHERENTE,de
+20:46:21,NEUTRAL,NEUTRAL,COHERENTE,de
+20:46:21,NEUTRAL,NEUTRAL,COHERENTE,de
+20:46:21,NEUTRAL,NEUTRAL,COHERENTE,de
+20:46:21,NEUTRAL,NEUTRAL,COHERENTE,de
+20:46:21,NEUTRAL,NEUTRAL,COHERENTE,de
+20:46:21,NEUTRAL,NEUTRAL,COHERENTE,de
+20:46:21,SONRIENDO,NEUTRAL,COHERENTE,de
+20:46:21,SONRIENDO,NEUTRAL,COHERENTE,en
+20:46:21,SONRIENDO,NEUTRAL,COHERENTE,en
+20:46:21,SONRIENDO,NEUTRAL,COHERENTE,en
+20:46:21,NEUTRAL,NEUTRAL,COHERENTE,en
+20:46:21,NEUTRAL,NEUTRAL,COHERENTE,en
+20:46:21,NEUTRAL,NEUTRAL,COHERENTE,en
+20:46:21,NEUTRAL,NEUTRAL,COHERENTE,en
+20:46:21,NEUTRAL,NEUTRAL,COHERENTE,en
+20:46:22,NEUTRAL,NEUTRAL,COHERENTE,llama
+20:46:22,NEUTRAL,NEUTRAL,COHERENTE,llama
+20:46:22,SONRIENDO,NEUTRAL,COHERENTE,llama
+20:46:22,SONRIENDO,NEUTRAL,COHERENTE,llama
+20:46:22,SONRIENDO,NEUTRAL,COHERENTE,llama
+20:46:22,SONRIENDO,NEUTRAL,COHERENTE,llama
+20:46:22,SONRIENDO,NEUTRAL,COHERENTE,ya
+20:46:22,SONRIENDO,NEUTRAL,COHERENTE,ya
+20:46:22,SONRIENDO,NEUTRAL,COHERENTE,ya
+20:46:22,SONRIENDO,NEUTRAL,COHERENTE,ya
+20:46:22,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que
+20:46:22,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que
+20:46:22,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que
+20:46:23,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace
+20:46:23,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace
+20:46:23,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace
+20:46:23,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace
+20:46:23,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es
+20:46:23,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es
+20:46:23,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es
+20:46:23,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es
+20:46:23,HABLANDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es
+20:46:23,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel
+20:46:23,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel
+20:46:23,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel
+20:46:23,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel
+20:46:23,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel
+20:46:24,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel
+20:46:24,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel
+20:46:24,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel met métete
+20:46:24,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel met métete
+20:46:24,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel met métete
+20:46:24,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte
+20:46:24,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte
+20:46:24,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el
+20:46:24,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el
+20:46:24,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro
+20:46:24,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro
+20:46:24,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro
+20:46:25,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro
+20:46:25,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro
+20:46:25,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro
+20:46:25,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro
+20:46:25,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y
+20:46:25,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y
+20:46:25,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y
+20:46:25,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y
+20:46:25,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y
+20:46:25,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y
+20:46:25,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y
+20:46:25,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice
+20:46:25,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice
+20:46:25,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice
+20:46:26,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice
+20:46:26,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice estas
+20:46:26,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice estas
+20:46:26,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice estas
+20:46:26,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice estas
+20:46:26,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta
+20:46:26,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta
+20:46:26,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta
+20:46:26,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta
+20:46:26,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta
+20:46:26,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta
+20:46:26,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo
+20:46:26,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo
+20:46:26,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo
+20:46:27,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo
+20:46:27,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo
+20:46:27,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo
+20:46:27,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo
+20:46:27,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo
+20:46:27,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo
+20:46:27,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo
+20:46:27,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo
+20:46:27,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo
+20:46:27,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas nuevas
+20:46:27,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas nuevas
+20:46:27,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas nuevas
+20:46:27,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas
+20:46:27,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas
+20:46:28,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas
+20:46:28,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas
+20:46:28,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:28,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:28,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:28,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:28,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:28,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:28,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:28,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:28,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:28,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:28,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:28,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:28,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los moradores
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas
+20:46:29,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas
+20:46:30,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas
+20:46:30,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas
+20:46:30,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y
+20:46:30,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y
+20:46:30,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y
+20:46:30,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a
+20:46:30,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a
+20:46:30,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a
+20:46:30,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a
+20:46:30,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso
+20:46:30,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso
+20:46:30,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso
+20:46:30,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso
+20:46:30,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso
+20:46:31,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te
+20:46:31,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te
+20:46:31,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo
+20:46:31,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo
+20:46:31,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo
+20:46:31,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y
+20:46:31,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y
+20:46:31,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y
+20:46:31,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y
+20:46:31,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y
+20:46:31,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y
+20:46:31,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y
+20:46:31,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y
+20:46:31,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también
+20:46:32,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también
+20:46:32,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también
+20:46:32,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también
+20:46:32,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un
+20:46:32,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un
+20:46:32,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un
+20:46:32,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un
+20:46:32,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice
+20:46:32,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice
+20:46:32,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de
+20:46:32,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de
+20:46:32,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de
+20:46:32,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de
+20:46:33,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,HABLANDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,HABLANDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,HABLANDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,SONRIENDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:33,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:34,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:34,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:34,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia
+20:46:34,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también
+20:46:34,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también
+20:46:34,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también
+20:46:34,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestro
+20:46:34,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestro
+20:46:34,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestro
+20:46:34,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra
+20:46:34,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra
+20:46:34,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra
+20:46:35,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir
+20:46:35,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir
+20:46:35,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en
+20:46:35,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en
+20:46:35,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real
+20:46:35,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real en
+20:46:36,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real en
+20:46:36,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real
+20:46:36,HABLANDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real
+20:46:36,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real sitio de
+20:46:36,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo
+20:46:36,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo
+20:46:37,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo
+20:46:37,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo
+20:46:37,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente
+20:46:37,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente
+20:46:37,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente
+20:46:37,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente
+20:46:38,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero no
+20:46:38,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento
+20:46:38,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento
+20:46:38,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento
+20:46:38,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento
+20:46:38,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento
+20:46:38,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento
+20:46:38,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que
+20:46:38,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que
+20:46:38,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que
+20:46:38,HABLANDO,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no
+20:46:39,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no
+20:46:39,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no
+20:46:39,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no
+20:46:39,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no
+20:46:39,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no
+20:46:39,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que
+20:46:39,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que
+20:46:39,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que
+20:46:39,MANOS ARRIBA,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con
+20:46:39,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con
+20:46:39,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con
+20:46:39,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis
+20:46:39,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis
+20:46:40,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis
+20:46:40,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis
+20:46:40,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis sentimientos
+20:46:40,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis sentimientos
+20:46:40,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis sentimientos
+20:46:40,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis sentimientos
+20:46:40,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis sentimientos
+20:46:40,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis sentimientos
+20:46:40,NEUTRAL,NEUTRAL,COHERENTE,ya básicamente lo que hace es aquel vez me detecte el rostro y me dice esta sonriendo estas neutral de los malos levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis sentimientos
+20:46:40,NEUTRAL,NEUTRAL,COHERENTE,en ya básicamente lo que hace es aquel meet me detecte el rostro y me dice esta sonriendo estas neutral de los nuevas levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis sentimientos por ejemplo
+20:46:40,NEUTRAL,NEUTRAL,COHERENTE,en ya básicamente lo que hace es aquel meet me detecte el rostro y me dice esta sonriendo estas neutral de los nuevas levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis sentimientos por ejemplo
+20:46:40,NEUTRAL,NEUTRAL,COHERENTE,en ya básicamente lo que hace es aquel meet me detecte el rostro y me dice esta sonriendo estas neutral de los nuevas levantadas y en base a eso te va diciendo y también tiene un índice de coherencia también nuestra transcribir en tiempo real entonces yo digo algo incoherente pero al momento que no tenga que ver con mis sentimientos por ejemplo
+20:46:40,NEUTRAL,NEUTRAL,COHERENTE,me
+20:46:41,NEUTRAL,NEUTRAL,COHERENTE,me
+20:46:41,NEUTRAL,NEUTRAL,COHERENTE,me
+20:46:41,SONRIENDO,NEUTRAL,COHERENTE,yo me pongo
+20:46:41,SONRIENDO,NEUTRAL,COHERENTE,yo me pongo
+20:46:41,SONRIENDO,NEUTRAL,COHERENTE,yo me pongo feliz
+20:46:42,SONRIENDO,POSITIVO,COHERENTE,yo me pongo feliz
+20:46:42,MANOS ARRIBA,POSITIVO,COHERENTE,yo me pongo feliz
+20:46:42,SONRIENDO,POSITIVO,COHERENTE,yo me pongo feliz
+20:46:43,SONRIENDO,POSITIVO,COHERENTE,yo me pongo feliz
+20:46:43,SONRIENDO,POSITIVO,COHERENTE,y diga
+20:46:44,SONRIENDO,NEUTRAL,COHERENTE,y diga
+20:46:44,SONRIENDO,NEUTRAL,COHERENTE,y diga
+20:46:44,SONRIENDO,NEUTRAL,COHERENTE,y diga
+20:46:45,SONRIENDO,NEUTRAL,COHERENTE,y digo hoy es el
+20:46:45,SONRIENDO,NEUTRAL,COHERENTE,y digo hoy es el día más triste
+20:46:45,NEUTRAL,NEGATIVO,COHERENTE,y digo hoy es el día más triste
+20:46:46,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de
+20:46:46,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:46,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:46,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:46,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:46,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:46,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:46,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:46,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:46,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:46,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:46,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:46,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:47,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:47,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:47,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:47,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:47,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo hoy es el día más triste de mi vida
+20:46:47,SONRIENDO,NEGATIVO,INCONGRUENTE,y diga hoy es el día más triste de mi vida
+20:46:47,SONRIENDO,NEGATIVO,INCONGRUENTE,y diga hoy es el día más triste de mi vida
+20:46:47,SONRIENDO,NEGATIVO,INCONGRUENTE,y diga hoy es el día más triste de mi vida
+20:46:47,SONRIENDO,NEGATIVO,INCONGRUENTE,y diga hoy es el día más triste de mi vida
+20:46:47,SONRIENDO,NEGATIVO,INCONGRUENTE,entonces
+20:46:47,SONRIENDO,NEUTRAL,COHERENTE,entonces
+20:46:47,SONRIENDO,NEUTRAL,COHERENTE,entonces
+20:46:47,SONRIENDO,NEUTRAL,COHERENTE,entonces
+20:46:47,SONRIENDO,NEUTRAL,COHERENTE,entonces
+20:46:47,SONRIENDO,NEUTRAL,COHERENTE,entonces
+20:46:47,SONRIENDO,NEUTRAL,COHERENTE,entonces
+20:46:48,SONRIENDO,NEUTRAL,COHERENTE,entonces
+20:46:48,SONRIENDO,NEUTRAL,COHERENTE,entonces
+20:46:48,NEUTRAL,NEUTRAL,COHERENTE,entonces
+20:46:48,NEUTRAL,NEUTRAL,COHERENTE,entonces
+20:46:48,NEUTRAL,NEUTRAL,COHERENTE,entonces
+20:46:48,NEUTRAL,NEUTRAL,COHERENTE,entonces es una
+20:46:48,NEUTRAL,NEUTRAL,COHERENTE,entonces es una
+20:46:48,SONRIENDO,NEUTRAL,COHERENTE,entonces es una
+20:46:48,SONRIENDO,NEUTRAL,COHERENTE,entonces es una
+20:46:48,SONRIENDO,NEUTRAL,COHERENTE,entonces es una
+20:46:48,SONRIENDO,NEUTRAL,COHERENTE,entonces es una
+20:46:48,SONRIENDO,NEUTRAL,COHERENTE,entonces es una
+20:46:48,SONRIENDO,NEUTRAL,COHERENTE,entonces es una
+20:46:48,SONRIENDO,NEUTRAL,COHERENTE,entonces es una
+20:46:49,SONRIENDO,NEUTRAL,COHERENTE,entonces es una
+20:46:49,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia
+20:46:49,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia
+20:46:49,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia
+20:46:49,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia
+20:46:49,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia y
+20:46:49,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia y
+20:46:49,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia y
+20:46:49,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia y
+20:46:49,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia y
+20:46:49,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia y me
+20:46:49,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia y me
+20:46:49,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi
+20:46:50,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi
+20:46:50,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi
+20:46:50,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi
+20:46:50,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi
+20:46:50,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia y generar ingresos
+20:46:50,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera
+20:46:50,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera
+20:46:50,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias
+20:46:51,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias
+20:46:51,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias
+20:46:51,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias
+20:46:51,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias
+20:46:51,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias
+20:46:51,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces y
+20:46:51,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces y
+20:46:51,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces y
+20:46:52,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo
+20:46:52,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo
+20:46:52,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo
+20:46:52,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo
+20:46:52,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió
+20:46:52,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió
+20:46:52,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió
+20:46:52,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió
+20:46:52,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió
+20:46:52,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los
+20:46:52,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los
+20:46:52,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los
+20:46:53,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los
+20:46:53,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los
+20:46:53,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los
+20:46:53,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los
+20:46:53,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los
+20:46:53,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los
+20:46:53,SONRIENDO,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los sacerdotes
+20:46:53,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los sacerdotes
+20:46:53,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo
+20:46:53,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo
+20:46:53,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo
+20:46:53,MANOS ARRIBA,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo
+20:46:53,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo
+20:46:53,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo
+20:46:53,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo
+20:46:53,NEUTRAL,NEUTRAL,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque
+20:46:54,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque
+20:46:54,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque
+20:46:54,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque
+20:46:54,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque
+20:46:54,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único
+20:46:54,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único
+20:46:54,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único
+20:46:54,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que
+20:46:54,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que
+20:46:54,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que
+20:46:54,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que
+20:46:54,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que
+20:46:54,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy diciendo
+20:46:54,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy diciendo
+20:46:54,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy diciendo
+20:46:55,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita
+20:46:55,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita
+20:46:55,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita
+20:46:55,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para
+20:46:55,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para
+20:46:55,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para
+20:46:55,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para
+20:46:55,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no
+20:46:55,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no
+20:46:55,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no
+20:46:55,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me extraña
+20:46:55,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me extraña
+20:46:55,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me extraña
+20:46:56,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la
+20:46:56,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la
+20:46:56,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la
+20:46:56,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la
+20:46:56,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese
+20:46:56,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese
+20:46:56,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese
+20:46:56,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese
+20:46:56,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese
+20:46:56,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese
+20:46:56,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese
+20:46:56,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese
+20:46:56,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese
+20:46:57,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese
+20:46:57,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando
+20:46:57,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando
+20:46:57,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando
+20:46:57,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando
+20:46:57,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando
+20:46:57,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando
+20:46:57,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando
+20:46:57,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un
+20:46:57,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un
+20:46:57,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un
+20:46:57,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo
+20:46:57,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo
+20:46:57,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo
+20:46:58,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo
+20:46:58,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo
+20:46:58,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo
+20:46:58,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este
+20:46:58,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este
+20:46:58,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este
+20:46:58,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este
+20:46:58,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este divertido
+20:46:58,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este divertido
+20:46:58,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este divertido
+20:46:58,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré
+20:46:58,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré
+20:46:59,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré
+20:46:59,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar
+20:46:59,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar
+20:46:59,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar
+20:46:59,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar
+20:46:59,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un
+20:46:59,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un
+20:46:59,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un
+20:46:59,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un
+20:46:59,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para
+20:46:59,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para
+20:46:59,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para
+20:46:59,HABLANDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo
+20:46:59,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo
+20:47:00,HABLANDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo
+20:47:00,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo
+20:47:00,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga
+20:47:00,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga
+20:47:00,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga
+20:47:00,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga
+20:47:00,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga
+20:47:00,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga
+20:47:00,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el
+20:47:00,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el
+20:47:00,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el
+20:47:00,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el
+20:47:00,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo
+20:47:01,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo
+20:47:01,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo
+20:47:01,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de
+20:47:01,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de
+20:47:01,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de
+20:47:01,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de
+20:47:01,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de
+20:47:01,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se
+20:47:01,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se
+20:47:01,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan
+20:47:01,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan
+20:47:01,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan
+20:47:01,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan
+20:47:01,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un
+20:47:02,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un
+20:47:02,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un
+20:47:02,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un
+20:47:02,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un
+20:47:02,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un
+20:47:02,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario
+20:47:02,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario
+20:47:02,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario
+20:47:02,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario
+20:47:02,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario por
+20:47:02,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario por
+20:47:02,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario por
+20:47:02,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque
+20:47:03,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque
+20:47:03,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque
+20:47:03,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro
+20:47:03,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro
+20:47:03,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro
+20:47:03,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro
+20:47:03,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no
+20:47:03,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no
+20:47:03,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no
+20:47:03,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no
+20:47:03,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no
+20:47:03,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no
+20:47:04,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no
+20:47:04,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no
+20:47:04,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no
+20:47:04,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no
+20:47:04,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no
+20:47:04,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no
+20:47:04,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el
+20:47:04,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el
+20:47:04,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el
+20:47:04,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo
+20:47:04,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo
+20:47:05,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo
+20:47:05,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero
+20:47:05,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero
+20:47:05,MANOS ARRIBA,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo terrestre y
+20:47:05,NEUTRAL,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es el aire
+20:47:05,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es el aire
+20:47:06,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es el aire
+20:47:06,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es el aire
+20:47:06,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es el aire entonces
+20:47:06,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es el aire entonces
+20:47:07,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es el aire entonces yo sonrió
+20:47:07,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es el aire entonces yo sonrió
+20:47:07,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es el aire entonces yo sonrió
+20:47:07,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es el aire entonces yo sonrió
+20:47:07,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es el aire entonces yo sonrió
+20:47:07,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es el aire entonces yo sonrió
+20:47:07,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es el aire entonces yo sonrió
+20:47:07,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es la ira cantos yo sonrió
+20:47:07,SONRIENDO,POSITIVO,COHERENTE,entonces es una incongruencia ibi genera incoherencias entonces si por ejemplo hirió los hacerlo tengo feliz porque lo único que estoy haciendo ahorita para que no me explote la pese no estoy utilizando un modelo este diré utilizar un modelo para que esto lo haga el modelo de se utilizan un diccionario porque claro no no entrenada el modelo pero es la ira cantos yo sonrió
+20:47:07,SONRIENDO,NEUTRAL,COHERENTE,y digo
+20:47:07,SONRIENDO,NEUTRAL,COHERENTE,y digo
+20:47:07,SONRIENDO,NEUTRAL,COHERENTE,y digo
+20:47:08,SONRIENDO,NEUTRAL,COHERENTE,y digo
+20:47:08,SONRIENDO,NEUTRAL,COHERENTE,y digo
+20:47:08,SONRIENDO,NEUTRAL,COHERENTE,y digo
+20:47:08,SONRIENDO,NEUTRAL,COHERENTE,y digo
+20:47:08,SONRIENDO,NEUTRAL,COHERENTE,y digo
+20:47:08,SONRIENDO,NEUTRAL,COHERENTE,y digo
+20:47:08,SONRIENDO,NEUTRAL,COHERENTE,y digo
+20:47:08,SONRIENDO,NEUTRAL,COHERENTE,y digo que
+20:47:08,SONRIENDO,NEUTRAL,COHERENTE,y digo que
+20:47:08,SONRIENDO,NEUTRAL,COHERENTE,y digo que
+20:47:08,SONRIENDO,NEUTRAL,COHERENTE,y digo que
+20:47:08,SONRIENDO,NEUTRAL,COHERENTE,y digo que
+20:47:08,SONRIENDO,NEUTRAL,COHERENTE,y digo que
+20:47:09,SONRIENDO,NEUTRAL,COHERENTE,y digo que
+20:47:09,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste
+20:47:09,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste
+20:47:09,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste
+20:47:09,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste
+20:47:09,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que
+20:47:09,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que
+20:47:09,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que
+20:47:09,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que
+20:47:09,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día
+20:47:09,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día
+20:47:09,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día
+20:47:09,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día
+20:47:09,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de
+20:47:10,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de
+20:47:10,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de
+20:47:10,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy
+20:47:10,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy
+20:47:10,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy
+20:47:10,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy
+20:47:10,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy
+20:47:10,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy
+20:47:10,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy
+20:47:10,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy y
+20:47:10,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy y
+20:47:10,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy y
+20:47:10,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy y
+20:47:10,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy y
+20:47:10,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy ya
+20:47:11,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy ya
+20:47:11,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy ya
+20:47:11,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy y ya pues
+20:47:11,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy y ya pues
+20:47:11,SONRIENDO,NEGATIVO,INCONGRUENTE,y digo que triste que del día de hoy y ya pues
+20:47:11,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada
+20:47:11,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada
+20:47:11,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada
+20:47:11,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada
+20:47:11,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada
+20:47:11,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada
+20:47:11,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada
+20:47:11,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada
+20:47:11,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada
+20:47:11,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:12,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:13,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:14,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:15,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:15,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:15,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:15,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:15,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:15,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:15,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:15,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:15,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:15,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:15,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:15,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:15,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:16,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:16,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:16,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:16,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:16,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:16,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:16,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:16,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:16,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:16,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:16,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:16,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,MANOS ARRIBA,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:17,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:18,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:19,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:19,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:19,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:19,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:19,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:19,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:19,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:19,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:19,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:19,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:19,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
+20:47:19,NEUTRAL,NEGATIVO,COHERENTE,y digo que triste que del día de hoy y ya pues detectada watford
