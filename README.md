@@ -34,7 +34,7 @@ git clone [https://github.com/AlexanderRosas/SpeechAnalyzer)
 cd SpeechAnalyzer
 ```
 
-### 2. Clonar el repositorio
+### 2. Crear Entorno Virtual
 ```bash
 # Windows
 python -m venv venv
@@ -86,8 +86,8 @@ python main.py
 ### Interpretación del Dashboard
   Semáforo Verde (COHERENTE): Tu expresión facial coincide con el sentimiento de tus palabras.
   Semáforo Rojo (ALERTA - INCONGRUENCIA):
-    Caso A: Estás diciendo algo positivo con cara de enojo/preocupación.
-    Caso B: Estás diciendo algo negativo/triste mientras sonríes (nervios o sarcasmo).
+    - Caso A: Estás diciendo algo positivo con cara de enojo/preocupación.
+    - Caso B: Estás diciendo algo negativo/triste mientras sonríes (nervios o sarcasmo).
     
-#### Licencia
+### Licencia
 Este proyecto es de uso académico y libre distribución.
